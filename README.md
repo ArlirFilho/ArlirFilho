@@ -1,11 +1,13 @@
 
 ### Arlir Rodrigues Filho
 
+
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arlir-rodrigues-filho)
 [![You Tube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arllyfilho)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arlyfilho@gmail.com)
 
 ### Sobre Mim
+
 
 Analista de Dados em Formação | Inteligência de Negócios em Evolução
 
@@ -16,6 +18,7 @@ Analista de Dados em Formação | Inteligência de Negócios em Evolução
 Sou um estudante apaixonado por tecnologia da informação, dedicado a expandir minha expertise em análise de dados e inteligência de negócios. Meu percurso acadêmico e meu comprometimento com a aprendizagem contínua estão me levando a crescer de forma inteligível minhas habilidades em projetos reais.
 
 ### Habilidades Técnicas
+
 
 ![python](https://camo.githubusercontent.com/bb64b34d04a01cfa79658e2704085740d88e209c21905d0f5b55ebc87a83aa3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565)
 ![R](https://camo.githubusercontent.com/89c0c631bae986c489a975ba0e7042d85633bc0f1dd4030c3fa9163db0f9b57b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d3237364443333f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465)
